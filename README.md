@@ -9,5 +9,7 @@ Instructions:
 5. to run code: npm run start
 6. install postman to test the code
   https://www.postman.com/downloads/postman-agent/
-
+  in postman u need to set the get req
+    ( localhost:3000/health )
+    send the request and message was printing
 
