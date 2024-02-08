@@ -11,5 +11,5 @@ Instructions:
   https://www.postman.com/downloads/postman-agent/
   in postman u need to set the get req
     ( localhost:3000/health )
-    send the request and message was printing
+    send the request and message will be printing
 
